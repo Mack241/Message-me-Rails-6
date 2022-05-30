@@ -1,0 +1,28 @@
+@import '@doabit/semantic-ui-sass/src/scss/semantic-ui.scss';
+@import 'semantic-ui';
+
+#coffee-icon {
+  margin-top: 20px;
+}
+
+.chatbox {
+  height: 450px;
+}
+
+#login-icon {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.flash-messages {
+  margin-top: 10px !important;
+}
+
+.submit-button:hover {
+  cursor: pointer !important;
+}
+
+#messages {
+  height: 15em;
+  overflow: auto;
+}
